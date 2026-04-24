@@ -1,0 +1,4 @@
+session_id,student_id,original_teacher,makeup_teacher,topic_match,score_after
+C006,S002,Teacher Arney,Teacher Nook,No,65
+C009,S003,Teacher Arney,Teacher Nook,No,60
+C017,S006,Teacher Arney,Teacher Nook,No,78

@@ -1,0 +1,26 @@
+session_id,student_id,date,teacher,topic,is_makeup,score ,absent 
+C001,S001,2024-01-20,Teacher Arney,Ordinal Numbers,No,90,No
+C002,S001,2024-01-27,Teacher Arney,Word Problems,No,85,No
+C003,S001,2024-02-03,Teacher Arney,Addition,No,88,No
+C004,S002,2024-01-25,Teacher Arney,Shapes,No,75,No
+C005,S002,2024-02-01,Teacher Arney,Patterns,No,70,No
+C006,S002,2024-02-08,Teacher Nook,Patterns,Yes,65,No
+C007,S003,2024-02-05,Teacher Arney,Fractions,No,80,No
+C008,S003,2024-02-12,Teacher Arney,Fractions,No,0,Yes
+C009,S003,2024-02-19,Teacher Nook,Decimals,Yes,60,No
+C010,S004,2024-02-05,Teacher Arney,Fractions,No,92,No
+C011,S004,2024-02-12,Teacher Arney,Decimals,No,88,No
+C012,S004,2024-02-19,Teacher Arney,Geometry,No,85,No
+C013,S005,2024-02-15,Teacher Arney,Multiplication,No,72,No
+C014,S005,2024-02-22,Teacher Arney,Division,No,0,Yes
+C015,S005,2024-02-29,Teacher Arney,Division,No,0,Yes
+C016,S006,2024-02-15,Teacher Arney,Multiplication,No,95,No
+C017,S006,2024-02-22,Teacher Nook,Division,Yes,78,No
+C018,S007,2024-03-05,Teacher Arney,Algebra Basics,No,68,No
+C019,S007,2024-03-12,Teacher Arney,Algebra Basics,No,0,Yes
+C020,S008,2024-03-05,Teacher Arney,Algebra Basics,No,82,No
+C021,S008,2024-03-12,Teacher Arney,Linear Equations,No,79,No
+C022,S009,2024-03-20,Teacher Arney,Ratio,No,88,No
+C023,S009,2024-03-27,Teacher Arney,Percentage,No,0,Yes
+C024,S010,2024-03-20,Teacher Arney,Ratio,No,91,No
+C025,S010,2024-03-27,Teacher Arney,Percentage,No,86,No
