@@ -44,7 +44,7 @@ Simulated dataset built from real tutoring center experience, structured across 
 | trial_test | Initial assessment results per student | 10 |
 | makeup_tracking | Makeup session records with topic match tracking | 3 |
 
-**Data source:** Simulated based on personal experience as an International Math Instructor (K1–G6)
+**Data source:** Simulated based on personal experience as an International Math Tutor (K1–G6)
 
 ---
 
@@ -138,7 +138,7 @@ ORDER BY avg_score ASC;
 
 **Dashboard includes:**
 - Average score by grade (Bar Chart)
-- Overall average score — 68.00 (Card)
+- Overall average score — 80.85 (Card)
 - At-risk student table with absence count and average score
 
 ---
